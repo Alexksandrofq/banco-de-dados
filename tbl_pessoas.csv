@@ -1,0 +1,7 @@
+id;nome;profissao;rg;cpf;endereco;data_nascimento;email;whatsapp;senha;estado_civil;genero;naturalidade;nacionalidade
+1;Alex;;253154987-cnh-uk;312.654.987-03;;32/13/-2056;login@provedor.com.seila;+965 (43) 165289-*56239;123456;;masculino;goiás / mato grosso do sul;
+2;Jéssica;;588774879-98;123.456.789-87;;06/07/2024;nseioque@seila.com.seila;+88 (16) 9825-68959;789456;;feminino;londrina / parana;
+3;Sebastião;;587945788-85;558.789.412-09;;25/04/1993;login@provedor.com.seila;seila;528741;;macho;são paulo / são paulo;
+4;Fernanda;;253154987-cnh-uk;312.654.987-03;;32/13/-2056;login@provedor.com.seila;+965 (43) 165289-*56239;e10adc3949ba59abbe56e057f20f883e;;masculino;goiás / mato grosso do sul;
+5;Nicoly;;253154987-cnh-uk;312.654.987-03;;32/13/-2056;login@provedor.com.seila;+965 (43) 165289-*56239;e10adc3949ba59abbe56e057f20f883e;;feminino;goiás / mato grosso do sul;
+6;Lucas;;528741369-08;741852963-09;;87/58/1974;login@provedor.com.seila;n sei;255630;;masculino;são carlos / são paulo;

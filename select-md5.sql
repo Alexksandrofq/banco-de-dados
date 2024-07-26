@@ -1,0 +1,1 @@
+select `nome`  from `db_senac`.`tbl_pessoas` where `senha`= md5('123456');
